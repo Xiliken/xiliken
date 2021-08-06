@@ -110,6 +110,6 @@ ___
 <p align="center">
   <a href="https://vk.com/xiliken" target="_blank"><img src="/images/vk.svg" width="50" height="50"></a>
   <a href="https://t.me/xiliken" target="_blank"><img src="/images/telegram.svg" width="50" height="50"></a>
-  <a href="mailto:qugelog@gmail.com" target="_blank"><img src="/images/email.svg" width="50" height="50"></a>
+  <a href="mailto:qugelog@gmail.com"><img src="/images/email.svg" width="50" height="50"></a>
 </p>
 
