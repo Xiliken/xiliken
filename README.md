@@ -81,15 +81,35 @@ A list of my basic skills can be seen below.
  <!-- Sketch -->
  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="50" height="50">
   
-  <!-- AI -->
- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50" height="50">
-  
   <!-- Photoshop -->
- <img src="https://camo.githubusercontent.com/36ed22d8e71cd057e1bda64516d5b0a6ac836852d053fd395e4a39c3db0310f7/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333137372f70686f746f73686f702d63632d6c6f676f2e737667" width="50" height="50">
+ <img src="/images/photoshop.svg" width="50" height="50">
     
+  <!-- Illustrator -->
+ <img src="/images/illustrator.svg" width="50" height="50">
+  
+  <!-- Premier Pro -->
+ <img src="/images/premierpro.svg" width="50" height="50">
+  
  <!-- Vs Code -->
  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50">
   
   <!-- PHP Storm -->
  <img src="https://camo.githubusercontent.com/3df19e14a9d788ed1e396fbd9df7ccf6997cca41253230454fb1eefb0077754a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f70687073746f726d2d312e737667" width="50" height="50">
 </p>
+
+<h3 align="center">Languages</h3>
+<p align="center">
+ <img src="images/russia.svg" width="50" height="50">
+ <img src="images/usa.svg" width="50" height="50">
+</p>
+
+___
+
+<h3 align="center">Contact me</h3>
+
+<p align="center">
+  <a href="https://vk.com/xiliken" target="_blank"><img src="/images/vk.svg" width="50" height="50"></a>
+  <a href="https://t.me/xiliken" target="_blank"><img src="/images/telegram.svg" width="50" height="50"></a>
+  <a href="mailto:qugelog@gmail.com" target="_blank"><img src="/images/email.svg" width="50" height="50"></a>
+</p>
+
