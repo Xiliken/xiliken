@@ -76,10 +76,48 @@ I am proud of my professional reputation and strive to be a reliable and respons
 
 ### 🔥 Works 
 <div class="project">
-  <img src="https://i.imgur.com/zJ5wPWV.png" width="400">
-  <p>
-    <a href="https://vizer-dizer.ru" target="_blank"><b>VizerDizer</b></a> - сайт 3D визуализации на заказ
-  </p>
+  <div class="project__item">
+    <img src="https://i.imgur.com/zJ5wPWV.png" width="350">
+    <p>
+      <a href="https://vizer-dizer.ru" target="_blank"><b>VizerDizer</b></a> - сайт 3D визуализации на заказ
+    </p>
+  </div>
+    <div class="project__item" align="right">
+      <img src="https://i.imgur.com/GKJ58nB.png" width="350">
+      <p>
+        <a href="https://stomcomplex24.ru" target="_blank"><b>Стоматологический комплекс №2</b></a> - сайт стоматологии г.Красноярск 
+      </p>
+    </div>
+    <div class="project__item">
+    <img src="https://i.imgur.com/3omGYoI.png" width="350">
+    <p>
+      <a href="#" target="_blank"><b>TopRazbor</b></a> - авторазбор в г.Красноярск
+    </p>
+  </div>
+    <div class="project__item" align="right">
+      <img src="https://i.imgur.com/iV8TwWm.png" width="350">
+      <p>
+        <a href="#" target="_blank"><b>SapphireLife</b></a> - игровой проект Minecraft
+      </p>
+    </div>
+    <div class="project__item">
+    <img src="https://i.imgur.com/uSeeFSm.png" width="350">
+    <p>
+      <a href="https://craftlab.su" target="_blank"><b>CraftLab (BaronessDev)</b></a> - студия разработки Minecraft
+    </p>
+  </div>
+    <div class="project__item" align="right">
+      <img src="https://i.imgur.com/XeBXqgh.png" width="350">
+      <p>
+        <a href="#" target="_blank"><b>SapphireLife</b></a> - форум игрового проекта Minecraft
+      </p>
+    </div>
+    <div class="project__item">
+    <img src="https://i.imgur.com/THSUSTp.png" width="350">
+    <p>
+      <a href="#" target="_blank"><b>Ares</b></a> - игровой сервер Minecraft
+    </p>
+  </div>
 </div>
 
 
