@@ -1,115 +1,94 @@
+<div id="logo" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=69F7E3&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+page+🤗" alt="Typing SVG" />
+</div>
+<div id="contacts" align="center">
+  <!-- Telegram -->
+  <a href="https://t.me/xiliken" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+    <!-- Vk -->
+  <a href="https://vk.com/xiliken" target="_blank">
+    <img 
+src="https://camo.githubusercontent.com/65c26fa92e0120cdbad431d9b940f2e23d944383a69aab48c6375449c33129c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2544302542322544302542412544302542452544302542442544312538322544302542302544302542412544312538322544302542352d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d766b266c6f676f436f6c6f723d7768697465">
+  </a>
+  
+</div>
 
-I am a humble web developer. I am just beginning my journey.
 
-A list of my basic skills can be seen below.
+### 👩‍💻 About Me :
+<p>
+I am a web developer. I love doing my job well. I approach each project responsibly and bring my work to the end. I always try to learn something new in my work. I understand the importance of a responsible approach to each project that I work with. Starting with analysis and planning, I try to fully immerse myself in the task and offer the best solutions to achieve the goals. I pay attention to detail and do my best to keep my code clean, efficient and scalable.
 
+As a web developer, I am aware that my work is not limited to creating websites or web applications. I understand the importance of user experience and usability, which is why I strive to create intuitive interfaces and make websites load fast and responsive.
 
-<h2 align="center">My knowlage base:</h2>
-<p align="center">
-  <!-- Laravel -->
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="50" alt="Laravel">
-  <!-- PHP -->
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50">
-  
-  <!-- HTML -->
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50">
-  
-  <!-- Css -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60" height="60">
-  
-  <!-- Bootstrap -->
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50">
-  
-  <!-- Scss -->
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="50" height="50">
-  
-  <!-- Less -->
-  <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg" width="50" height="50">
-  
-  <!-- Webpack -->
-  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="50" height="50">
- </p>
- 
-  <p align="center">
-  <!-- Pug -->
-  <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" width="50" height="50">
-  
-  <!-- Babel -->
- <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="50" height="50"> 
-  
-  <!-- Native JS -->
-  <img src="/images/javascript.svg" width="50" height="50">
-  
-  <!-- JQuery -->
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="50" height="50">
-  
-  <!-- Node js -->
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50">
-   
-  <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50">
-  
-  <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"> 
-  
-  <!-- Postgree -->
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" height="50"> 
-  
-  <!-- MySQL -->
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="50" height="50"> 
-   
-  <!-- MongoDB -->
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50"> 
-  
-  <!-- SQLite -->
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50"> 
- </p>
- 
- <h3 align="center">I usually use</h4>
- 
- ---
-<p align="center">
- <!-- Zeplin -->
- <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" width="50" height="50">
-  
-  <!-- Figma -->
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50">
-  
- <!-- Avacode -->
- <img src="/images/avacode.svg" width="50" height="50">
-  
- <!-- Sketch -->
- <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="50" height="50">
-  
-  <!-- Photoshop -->
- <img src="/images/photoshop.svg" width="50" height="50">
-    
-  <!-- Illustrator -->
- <img src="/images/illustrator.svg" width="50" height="50">
-  
-  <!-- Premier Pro -->
- <img src="/images/premierpro.svg" width="50" height="50">
-  
- <!-- Vs Code -->
- <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50">
-  
-  <!-- PHP Storm -->
- <img src="https://camo.githubusercontent.com/3df19e14a9d788ed1e396fbd9df7ccf6997cca41253230454fb1eefb0077754a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f70687073746f726d2d312e737667" width="50" height="50">
+I am proud of my professional reputation and strive to be a reliable and responsive web developer at all times. I strive to ensure that every project I work on is successful and exceeds the client's expectations.
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
- <img src="images/russia.svg" width="50" height="50">
- <img src="images/usa.svg" width="50" height="50">
+### 💻 My stack :
+<hr>
+
+### 🏠 Frontend :
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="35">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35">
 </p>
 
-___
+<div align="right">
+  <h3> 🛠️ Languages & Tools : </h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" width="35">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="35"> +
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="35">
+  </p>
+</div>
 
-<h3 align="center">Contact me</h3>
-
-<p align="center">
-  <a href="https://vk.com/xiliken" target="_blank"><img src="/images/vk.svg" width="50" height="50"></a>
-  <a href="https://t.me/xiliken" target="_blank"><img src="/images/telegram.svg" width="50" height="50"></a>
-  <a href="mailto:qugelog@gmail.com"><img src="/images/email.svg" width="50" height="50"></a>
+### 🖥️ System administration 
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35">
 </p>
+
+<div align="right">
+  <h3> 📄 Databases </h3>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="35">
+  </p>
+</div>
+<h3>⚡️ CMS & Frameworks </h3>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="35"> 
+</p>
+
+
+### 🔥 Works 
+<div class="project">
+  <img src="https://i.imgur.com/zJ5wPWV.png" width="400">
+  <p>
+    <a href="https://vizer-dizer.ru" target="_blank"><b>VizerDizer</b></a> - сайт 3D визуализации на заказ
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
 
