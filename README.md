@@ -118,6 +118,12 @@ I am proud of my professional reputation and strive to be a reliable and respons
       <a href="#" target="_blank"><b>Ares</b></a> - игровой сервер Minecraft
     </p>
   </div>
+    <div class="project__item" align="right">
+      <img src="https://i.imgur.com/adZElrN.jpg" width="350">
+      <p>
+        <a href="#" target="_blank"><b>Небо</b></a> - натяжные потолки в Красноярске
+      </p>
+  </div>
 </div>
 
 
