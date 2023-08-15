@@ -124,6 +124,12 @@ I am proud of my professional reputation and strive to be a reliable and respons
         <a href="#" target="_blank"><b>Небо</b></a> - натяжные потолки в Красноярске
       </p>
   </div>
+    <div class="project__item">
+    <img src="https://i.imgur.com/ijborfl.jpg" width="350">
+    <p>
+      <a href="#" target="_blank"><b>KKRIT Interactive Map</b></a> - интерактивная карта колледжа
+    </p>
+  </div>
 </div>
 
 
