@@ -25,7 +25,8 @@ As a web developer, I am aware that my work is not limited to creating websites 
 I am proud of my professional reputation and strive to be a reliable and responsive web developer at all times. I strive to ensure that every project I work on is successful and exceeds the client's expectations.
 </p>
 
-### 💻 My stack :
+<details>
+  <summary><h3>💻 My stack</h3></summary>
 <hr>
 
 ### 🏠 Frontend :
@@ -72,66 +73,67 @@ I am proud of my professional reputation and strive to be a reliable and respons
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="35"> 
 </p>
+</details>
 
-
-### 🔥 Works 
-<div class="project">
-  <div class="project__item">
-    <img src="https://i.imgur.com/zJ5wPWV.png" width="350">
-    <p>
-      <a href="https://vizer-dizer.ru" target="_blank"><b>VizerDizer</b></a> - сайт 3D визуализации на заказ
-    </p>
-  </div>
-    <div class="project__item" align="right">
-      <img src="https://i.imgur.com/GKJ58nB.png" width="350">
+<details>
+  <summary><h3>🔥 Works</h3></summary>
+  <div class="project">
+    <div class="project__item">
+      <img src="https://i.imgur.com/zJ5wPWV.png" width="350">
       <p>
-        <a href="https://stomcomplex24.ru" target="_blank"><b>Стоматологический комплекс №2</b></a> - сайт стоматологии г.Красноярск 
+        <a href="https://vizer-dizer.ru" target="_blank"><b>VizerDizer</b></a> - сайт 3D визуализации на заказ
       </p>
     </div>
-    <div class="project__item">
-    <img src="https://i.imgur.com/3omGYoI.png" width="350">
-    <p>
-      <a href="#" target="_blank"><b>TopRazbor</b></a> - авторазбор в г.Красноярск
-    </p>
-  </div>
-    <div class="project__item" align="right">
-      <img src="https://i.imgur.com/iV8TwWm.png" width="350">
+      <div class="project__item" align="right">
+        <img src="https://i.imgur.com/GKJ58nB.png" width="350">
+        <p>
+          <a href="https://stomcomplex24.ru" target="_blank"><b>Стоматологический комплекс №2</b></a> - сайт стоматологии г.Красноярск 
+        </p>
+      </div>
+      <div class="project__item">
+      <img src="https://i.imgur.com/3omGYoI.png" width="350">
       <p>
-        <a href="#" target="_blank"><b>SapphireLife</b></a> - игровой проект Minecraft
+        <a href="#" target="_blank"><b>TopRazbor</b></a> - авторазбор в г.Красноярск
       </p>
     </div>
-    <div class="project__item">
-    <img src="https://i.imgur.com/uSeeFSm.png" width="350">
-    <p>
-      <a href="https://craftlab.su" target="_blank"><b>CraftLab (BaronessDev)</b></a> - студия разработки Minecraft
-    </p>
-  </div>
-    <div class="project__item" align="right">
-      <img src="https://i.imgur.com/XeBXqgh.png" width="350">
+      <div class="project__item" align="right">
+        <img src="https://i.imgur.com/iV8TwWm.png" width="350">
+        <p>
+          <a href="#" target="_blank"><b>SapphireLife</b></a> - игровой проект Minecraft
+        </p>
+      </div>
+      <div class="project__item">
+      <img src="https://i.imgur.com/uSeeFSm.png" width="350">
       <p>
-        <a href="#" target="_blank"><b>SapphireLife</b></a> - форум игрового проекта Minecraft
+        <a href="https://craftlab.su" target="_blank"><b>CraftLab (BaronessDev)</b></a> - студия разработки Minecraft
       </p>
     </div>
-    <div class="project__item">
-    <img src="https://i.imgur.com/THSUSTp.png" width="350">
-    <p>
-      <a href="#" target="_blank"><b>Ares</b></a> - игровой сервер Minecraft
-    </p>
-  </div>
-    <div class="project__item" align="right">
-      <img src="https://i.imgur.com/adZElrN.jpg" width="350">
+      <div class="project__item" align="right">
+        <img src="https://i.imgur.com/XeBXqgh.png" width="350">
+        <p>
+          <a href="#" target="_blank"><b>SapphireLife</b></a> - форум игрового проекта Minecraft
+        </p>
+      </div>
+      <div class="project__item">
+      <img src="https://i.imgur.com/THSUSTp.png" width="350">
       <p>
-        <a href="#" target="_blank"><b>Небо</b></a> - натяжные потолки в Красноярске
+        <a href="#" target="_blank"><b>Ares</b></a> - игровой сервер Minecraft
       </p>
+    </div>
+      <div class="project__item" align="right">
+        <img src="https://i.imgur.com/adZElrN.jpg" width="350">
+        <p>
+          <a href="#" target="_blank"><b>Небо</b></a> - натяжные потолки в Красноярске
+        </p>
+    </div>
+      <div class="project__item">
+      <img src="https://i.imgur.com/ijborfl.jpg" width="350">
+      <p>
+        <a href="#" target="_blank"><b>KKRIT Interactive Map</b></a> - интерактивная карта колледжа
+      </p>
+    </div>
   </div>
-    <div class="project__item">
-    <img src="https://i.imgur.com/ijborfl.jpg" width="350">
-    <p>
-      <a href="#" target="_blank"><b>KKRIT Interactive Map</b></a> - интерактивная карта колледжа
-    </p>
-  </div>
-</div>
-
+</details>
 
 
 
