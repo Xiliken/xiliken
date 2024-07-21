@@ -9,7 +9,7 @@
   </a>
     <!-- Vk -->
   <a href="https://vk.com/xiliken" target="_blank">
-    <img src="https:/img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
+    <img src="https://goo.su/x6J93">
   </a>
   
 </div>
