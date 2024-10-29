@@ -4,11 +4,11 @@
 </div>
 <div id="contacts" align="center">
   <!-- Telegram -->
-  <a href="https://t.me/xiliken" target="_blank">
+  <a href="https://t.me/drozdovilya8019" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
     <!-- Vk -->
-  <a href="https://vk.com/xiliken" target="_blank">
+  <a href="https://vk.com/drozdovilya8769" target="_blank">
     <img src="https://goo.su/x6J93">
   </a>
   
