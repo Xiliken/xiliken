@@ -4,7 +4,7 @@
 </div>
 <div id="contacts" align="center">
   <!-- Telegram -->
-  <a href="https://t.me/drozdovilya8019" target="_blank">
+  <a href="https://t.me/drozd8019" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
     <!-- Vk -->
@@ -133,7 +133,12 @@ I am proud of my professional reputation and strive to be a reliable and respons
     </div>
   </div>
 </details>
-
+<details>
+  <summary><h3>🫶 Support</h3></summary>
+  <a href="https://diagnostiqa.ru/">ДиагностиQA - медицинский центр в Москве</a>
+  <a href="https://meldclub.ru//">MeldClub.ru</a>
+  <a href="https://t.me/done_help_bot">Донерс - бот ресторана</a>
+</details>
 
 
 
