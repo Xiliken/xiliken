@@ -69,8 +69,8 @@ I am proud of my professional reputation and strive to be a reliable and respons
 </div>
 <h3>⚡️ CMS & Frameworks </h3>
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="35"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="35"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="35"> 
 </p>
 </details>
 
@@ -144,6 +144,9 @@ I am proud of my professional reputation and strive to be a reliable and respons
     </li>
     <li>
        <a href="https://t.me/done_help_bot">Донерс - бот ресторана</a>
+    </li>
+    <li>
+      <a href="https://kladik.pro/">Kladik - сервер Minecraft</a>
     </li>
   </ul>
 </details>
