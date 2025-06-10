@@ -140,7 +140,7 @@ I am proud of my professional reputation and strive to be a reliable and respons
         <a href="https://diagnostiqa.ru/">ДиагностиQA - медицинский центр в Москве</a>
     </li>
     <li>
-        <a href="https://meldclub.ru//">MeldClub.ru</a>
+        <a href="https://x-labvet.ru/">VetLab</a>
     </li>
     <li>
        <a href="https://t.me/done_help_bot">Донерс - бот ресторана</a>
